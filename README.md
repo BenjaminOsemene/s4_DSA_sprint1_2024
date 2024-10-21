@@ -1,4 +1,4 @@
-This Java program implements a simple To-Do List manager where users can add tasks, mark tasks as completed, and view their list of tasks. Each user has it's own to-do list, which is represented as a single linked list of tasks. Users are stored in an array.
+This Java program implements To-Do List manager where 10 users can add tasks, mark tasks as completed, and view their list of tasks. Each user has it's own to-do list, which is represented as a single linked list of tasks. 
 
 The key features of this project include:
 - Create users and store them in an array
@@ -12,5 +12,4 @@ The program structure include:
 - "User.java": Shows a user with a name and a to-do list
 - "Main.java": Contains the main method to demonstrate the functionality
 
-To run the program, compile all java files by running the command
-javac *.java then run the Main class using the command java Main.
+To run the program, clone the repository and compile all java files by running the command;javac *.java, then run the Main class using the command; java Main.
