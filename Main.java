@@ -20,41 +20,50 @@ public class Main {
         users[0].addTask("Finish homework");
         users[0].addTask("Call mom");
         users[0].addTask("Prepare presentation");
-        users[9].addTask("Go to the gym");
+
         users[1].addTask("Buy fruits");
         users[1].addTask("Finish cooking");
         users[1].addTask("Call doctor");
         users[1].addTask("Schedule dentist appointment");
         users[1].addTask("Pay electricity bill");
+
         users[2].addTask("Clean the kitchen");
         users[2].addTask("Update resume");
         users[2].addTask("Start a new book");
         users[2].addTask("Plan weekend trip");
         users[2].addTask("Water the plants");
+
         users[3].addTask("Organize closet");
-        users[9].addTask("Backup computer files");
         users[3].addTask("Learn a new recipe");
         users[3].addTask("Write in journal");
         users[3].addTask("Practice meditation");
+
         users[4].addTask("Attend yoga class");
         users[4].addTask("Call grandparents");
         users[4].addTask("Fix leaky faucet");
         users[4].addTask("Renew library books");
         users[4].addTask("Schedule car maintenance");
+
         users[5].addTask("Buy birthday gift for friend");
         users[5].addTask("Update social media profiles");
         users[5].addTask("Research new phone plans");
         users[5].addTask("Organize digital photos");
         users[5].addTask("Plan meal prep for the week");
+
         users[6].addTask("Prepare presentation");
         users[6].addTask("Go to the gym");
         users[6].addTask("Finish project report");
         users[6].addTask("Buy new running shoes");
         users[6].addTask("Schedule team meeting");
+
         users[7].addTask("Read industry article");
         users[7].addTask("Call client for feedback");
+
         users[8].addTask("Prepare monthly budget");
         users[8].addTask("Research new software");
+
+        users[9].addTask("Go to the gym");
+        users[9].addTask("Backup computer files");
 
         users[0].markTaskCompleted("Buy groceries");
         users[0].markTaskCompleted("Finish homework");
